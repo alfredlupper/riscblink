@@ -1,0 +1,61 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Users/Fred/Documents/PlatformIO/Projects/200222-165941-arduino-blink/include",
+                "c:/Users/Fred/Documents/PlatformIO/Projects/200222-165941-arduino-blink/src",
+                "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino",
+                "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino/deprecated-avr-comp",
+                "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_standard_peripheral",
+                "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_standard_peripheral/Include",
+                "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino/GD32VF103_Firmware_Library/RISCV/drivers",
+                "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino/GD32VF103_Firmware_Library/RISCV/env_Eclipse",
+                "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino/GD32VF103_Firmware_Library/RISCV/stubs",
+                "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/variants/gd32vf103_eval",
+                "C:/Users/Fred/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/Fred/Documents/PlatformIO/Projects/200222-165941-arduino-blink/include",
+                    "c:/Users/Fred/Documents/PlatformIO/Projects/200222-165941-arduino-blink/src",
+                    "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino",
+                    "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino/deprecated-avr-comp",
+                    "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_standard_peripheral",
+                    "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_standard_peripheral/Include",
+                    "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino/GD32VF103_Firmware_Library/RISCV/drivers",
+                    "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino/GD32VF103_Firmware_Library/RISCV/env_Eclipse",
+                    "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/cores/arduino/GD32VF103_Firmware_Library/RISCV/stubs",
+                    "C:/Users/Fred/.platformio/packages/framework-arduino-gd32v/variants/gd32vf103_eval",
+                    "C:/Users/Fred/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40201",
+                "USE_STDPERIPH_DRIVER",
+                "HXTAL_VALUE=8000000U",
+                "ARDUINO=10805",
+                "ARDUINO_VARIANT=\"gd32vf103_eval\"",
+                "ARDUINO_BOARD=\"BOARD_GD32VF103_EVAL\"",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "compilerPath": "C:/Users/Fred/.platformio/packages/toolchain-gd32v/bin/riscv-nuclei-elf-gcc.exe",
+            "compilerArgs": [
+                "-march=rv32imac",
+                "-mabi=ilp32",
+                "-mcmodel=medlow",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
